@@ -1,1 +1,3 @@
-# actividad-2.6-Listas-Doblemente-Ligadas-Circulares-TDA-NODOS
+actividad-2.6-Listas-Doblemente-Ligadas-Circulares-TDA-NODOS
+integrantes: -Gonzalez Alvarado Alexa Michelle -Leon Gamez Fernando -Camacho Guerra Jacobo
+La actividad consistió en el desarrollo de una cola TDA con comportamiento FIFO mediante nodos dinámicos en Java. Se modeló el objeto `Turno`, se implementaron las operaciones de encolar, desencolar, consultar el frente, verificar si está vacía, obtener el tamaño y vaciar la cola, usando referencias manuales `frente` y `ultimo` sin colecciones predefinidas. Además, se integró una interfaz gráfica para capturar datos y mostrar resultados, aplicando validaciones para evitar errores de formato, turnos nulos y operaciones sobre una cola vacía.
